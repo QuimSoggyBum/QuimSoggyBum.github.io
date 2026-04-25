@@ -26,7 +26,7 @@ All items and brand references in this mod are fan recreations and are not offic
 
 
 <details>
-  <summary>**1.21.1**</summary>
+  <summary><strong>1.21.1</strong>(Click Me):</summary>
   
 **Mod Loader** :  NeoForge<br>
 **Minecraft**  :  1.21.1<br>
