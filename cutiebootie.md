@@ -31,26 +31,30 @@ All items and brand references in this mod are fan recreations and are not offic
 
 ## Wet Level Meter
 
-I also have created a wet meter that shows the [**NappyCraft**](https://modrinth.com/mod/nappycraft) wet level. This meter only shows when a diaper is on.
+I also have created a wet meter that shows the [**NappyCraft**](https://modrinth.com/mod/nappycraft) wet level. This meter only shows when a diaper is on.<br>
 <img width="279" height="320" alt="image" src="https://github.com/user-attachments/assets/bcc4787e-ec49-42f2-96aa-0e830fabf250" />
 <br>
 <br>
+## **Downloads**:
 <details>
   <summary><strong>1.21.1</strong>(Click Me):</summary>
   
 **Mod Loader** :  NeoForge<br>
 **Minecraft**  :  1.21.1<br>
 **VirusTotal** :  [Here](https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1) <br>
-**File name**  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar<br> 
-**File size**  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS<br>
-**File hash**  :  552a64d0dfde0115ac67977cf826562d<br>
+**File name**  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar <br> 
+**File size**  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS <br>
+**File hash**  :  552a64d0dfde0115ac67977cf826562d <br>
   
 </details>
+<br>
 <details>
   <summary><strong>1.21.4</strong>(Click Me):</summary>
  Coming soon
 </details>
+<br>
 <details>
   <summary><strong>1.21.8</strong>(Click Me):</summary>
  Coming soon
 </details>
+<br>
