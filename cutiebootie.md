@@ -30,7 +30,7 @@ All items and brand references in this mod are fan recreations and are not offic
   
 **Mod Loader** :  NeoForge<br>
 **Minecraft**  :  1.21.1<br>
-**Vi
+**VirusTotal** :  [Here](https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1) <br>
 **File name**  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar<br> 
 **File size**  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS<br>
 **File hash**  :  552a64d0dfde0115ac67977cf826562d<br>
