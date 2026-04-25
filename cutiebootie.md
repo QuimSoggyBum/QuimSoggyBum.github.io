@@ -10,6 +10,7 @@ Welcome to Cutie Bootie, this mod is a Add-on mod, it does not work without [Nap
 <br>
 Remember, [NappyCraft](https://modrinth.com/mod/nappycraft) MUST be installed for my mod to work, please make sure you install it from here for the same Minecraft Version you selected EG 1.21.1
 <br>
+<hr>
 <details>
   <summary><strong>Please Note</strong>(click me):</summary>
   
@@ -21,7 +22,7 @@ We also want to respect other creators and communities, so please do not create 
 
 All items and brand references in this mod are fan recreations and are not official products. The real-world brands are not involved in, nor responsible for, this project.
 </details>
-
+<hr>
 <img width="997" height="783" alt="image" src="https://github.com/user-attachments/assets/290d34bd-f64c-4b78-b895-caf92a479651" />
 
 
