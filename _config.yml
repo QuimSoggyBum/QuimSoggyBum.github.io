@@ -2,5 +2,6 @@ remote_theme: QuimSoggyBum/modernist
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 show_downloads: false
+show_gitreturn: false
 title: Quim's Mod Page
 description: Here you will mods and contect created by QuimSoggyBum(Fay)
