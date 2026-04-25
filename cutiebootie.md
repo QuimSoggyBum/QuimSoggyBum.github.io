@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[Download](#downloads) | [FAQ](faq)
+[Download](#downloads) | [FAQ](#faq)
 
 </center>
 <br>
