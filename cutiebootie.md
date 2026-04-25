@@ -23,7 +23,9 @@ We also want to respect other creators and communities, so please do not create 
 All items and brand references in this mod are fan recreations and are not official products. The real-world brands are not involved in, nor responsible for, this project.
 </details>
 <hr>
+
 ## Cutie Bootie Diapers (6)
+
 <img width="997" height="783" alt="image" src="https://github.com/user-attachments/assets/290d34bd-f64c-4b78-b895-caf92a479651" />
 <br>
 
