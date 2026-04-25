@@ -1,3 +1,6 @@
+# QuimSoggyBum.github.io
+[home](README.md) | [Mods](mods.md) | About Me | Contact Me
+
 # Minecraft mods
 Minecraft related mods
 
