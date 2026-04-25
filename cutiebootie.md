@@ -4,6 +4,11 @@
 
 <center>
 <img width="468" height="104" alt="image" src="https://github.com/user-attachments/assets/32e38fa3-4ae7-4e5c-bd60-9dea212f78af" />
+<br>
+<br>
+
+[Download](#downloads) | [FAQ](faq)
+
 </center>
 <br>
 <br>
