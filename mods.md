@@ -11,7 +11,9 @@ Cutie Bootie is a Add-on mod for a mod called NappyCraft, the creator didn't wan
 to add some cute designs in his mod, so I have created my own Add-on for it.
 
 Main [Github](https://github.com/QuimSoggyBum/cutie-bootie) page.
-- 1.21.1 [download](#)
+Downloads might not be the newest release version, this is by design.
+
+- 1.21.1 [download]([#](https://github.com/QuimSoggyBum/cutie-bootie/releases/download/0.0.0.1/add-on.0.0.0.1-1.21.1-cutiebootie.jar))
 - 1.21.4 Coming Soon
 - 1.21.8 Coming Soon
 
