@@ -10,7 +10,8 @@
 </center>
 
 **Jump to**:
-- [Download](https://quimsoggybum.github.io/cutiebootie.html#downloads)
+
+- [Downloads](https://quimsoggybum.github.io/cutiebootie.html#downloads)
 - [FAQ](https://quimsoggybum.github.io/cutiebootie.html#faq)
 
 <br>
