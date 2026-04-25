@@ -13,13 +13,18 @@ Remember, [NappyCraft](https://modrinth.com/mod/nappycraft) MUST be installed fo
 <details>
   <summary>Please Note:</summary>
   
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
-  
-  ```javascript
-  console.log("I'm a code block!");
+Hi, I’m Quim, the creator of Cutie Bootie. I want to make it clear that this is an independent fan project. It is not endorsed, sponsored, or supported by NappyCraft or any of the brands referenced in this mod. NappyCraft doesn't agree with our community.
+
+NappyCraft is not involved with or connected to our community or this project in any way. This mod has been created entirely independently.
+
+We also want to respect other creators and communities, so please do not create any issues or drama on behalf of this project.
+
+All items and brand references in this mod are fan recreations and are not official products. The real-world brands are not involved in, nor responsible for, this project.
   ```
   
 </details>
+
+<img width="997" height="783" alt="image" src="https://github.com/user-attachments/assets/290d34bd-f64c-4b78-b895-caf92a479651" />
 
 
 <details>
