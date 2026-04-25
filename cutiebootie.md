@@ -3,12 +3,15 @@
 [home](README.md) | [Mods](mods.md) | [About Me](aboutme.md) | [Contact Me](contactme.md)
 
 <center>
+<br>
 <img width="468" height="104" alt="image" src="https://github.com/user-attachments/assets/32e38fa3-4ae7-4e5c-bd60-9dea212f78af" />
 <br>
 <br>
 </center>
 
-[Download](https://quimsoggybum.github.io/cutiebootie.html#downloads) | [FAQ](https://quimsoggybum.github.io/cutiebootie.html#faq)
+**Jump to**:
+- [Download](https://quimsoggybum.github.io/cutiebootie.html#downloads)
+- [FAQ](https://quimsoggybum.github.io/cutiebootie.html#faq)
 
 <br>
 <br>
