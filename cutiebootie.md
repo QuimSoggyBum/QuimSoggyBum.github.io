@@ -56,6 +56,9 @@ are not associated with or responsible for this project and they did not make th
 
 ## Downloads:
 
+To use Cutie Bootie you will need to download NappyCraft, Cutie Bootie is a Add-On, each version in as NappyCraft Version you need, to download Cutie Bootie 
+just click  the version you want, #.##.#(Click Me) and you will see all the information you need and the download link.
+
 <details>
   <summary><strong>1.21.1</strong>(Click Me):</summary>
 <hr><strong>Mod Loader</strong>:  NeoForge <br>
