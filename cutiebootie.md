@@ -11,7 +11,7 @@ Welcome to Cutie Bootie, this mod is a Add-on mod, it does not work without [Nap
 Remember, [NappyCraft](https://modrinth.com/mod/nappycraft) MUST be installed for my mod to work, please make sure you install it from here for the same Minecraft Version you selected EG 1.21.1
 <br>
 <details>
-  <summary>Please Note:</summary>
+  <summary><strong>Please Note</strong>(click me):</summary>
   
 Hi, I’m Quim, the creator of Cutie Bootie. I want to make it clear that this is an independent fan project. It is not endorsed, sponsored, or supported by NappyCraft or any of the brands referenced in this mod. NappyCraft doesn't agree with our community.
 
