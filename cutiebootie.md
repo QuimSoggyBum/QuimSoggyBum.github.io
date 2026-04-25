@@ -67,12 +67,10 @@ are not associated with or responsible for this project and they did not make th
 <strong>File hash</strong>  :  552a64d0dfde0115ac67977cf826562d <br>
   
 </details>
-<br>
 <details>
   <summary><strong>1.21.4</strong>(Click Me):</summary>
  Coming soon
 </details>
-<br>
 <details>
   <summary><strong>1.21.8</strong>(Click Me):</summary>
  Coming soon
