@@ -13,7 +13,7 @@ to add some cute designs in his mod, so I have created my own Add-on for it.
 Main [Github](https://github.com/QuimSoggyBum/cutie-bootie) page.
 Downloads might not be the newest release version, this is by design.
 
-- 1.21.1 [download]([#](https://github.com/QuimSoggyBum/cutie-bootie/releases/download/0.0.0.1/add-on.0.0.0.1-1.21.1-cutiebootie.jar))
+- 1.21.1 [download](https://github.com/QuimSoggyBum/cutie-bootie/releases/download/0.0.0.1/add-on.0.0.0.1-1.21.1-cutiebootie.jar) - [VirusTotal](https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1)
 - 1.21.4 Coming Soon
 - 1.21.8 Coming Soon
 
