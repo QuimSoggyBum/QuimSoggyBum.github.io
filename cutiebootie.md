@@ -58,9 +58,10 @@ are not associated with or responsible for this project and they did not make th
 
 <details>
   <summary><strong>1.21.1</strong>(Click Me):</summary>
-<hr><strong>Mod Loader</strong> :  NeoForge <br>
-<strong>Minecraft</strong>  :  1.21.1 <br>
+<hr><strong>Mod Loader</strong>:  NeoForge <br>
+<strong>Minecraft</strong>:  1.21.1 <br>
 <strong>Mod Version</strong>:  0.0.0.1 <br>
+<strong>NappyCraft Version</strong>:  1.1.1.0 And up <a href="https://modrinth.com/mod/nappycraft/versions?g=1.21.1&l=neoforge" target="_blank">Here</a> <br>
 <strong>VirusTotal</strong> :  <a href="https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1" target="_blank">Here</a> <br>
 <strong>File name</strong>  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar <br> 
 <strong>File size</strong>  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS <br>
