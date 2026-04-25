@@ -23,9 +23,16 @@ We also want to respect other creators and communities, so please do not create 
 All items and brand references in this mod are fan recreations and are not official products. The real-world brands are not involved in, nor responsible for, this project.
 </details>
 <hr>
+## Cutie Bootie Diapers (6)
 <img width="997" height="783" alt="image" src="https://github.com/user-attachments/assets/290d34bd-f64c-4b78-b895-caf92a479651" />
+<br>
 
+## Wet Level Meter
 
+I also have created a wet meter that shows the [**NappyCraft**](https://modrinth.com/mod/nappycraft) wet level. This meter only shows when a diaper is on.
+<img width="279" height="320" alt="image" src="https://github.com/user-attachments/assets/bcc4787e-ec49-42f2-96aa-0e830fabf250" />
+<br>
+<br>
 <details>
   <summary><strong>1.21.1</strong>(Click Me):</summary>
   
@@ -37,4 +44,11 @@ All items and brand references in this mod are fan recreations and are not offic
 **File hash**  :  552a64d0dfde0115ac67977cf826562d<br>
   
 </details>
-
+<details>
+  <summary><strong>1.21.4</strong>(Click Me):</summary>
+ Coming soon
+</details>
+<details>
+  <summary><strong>1.21.8</strong>(Click Me):</summary>
+ Coming soon
+</details>
