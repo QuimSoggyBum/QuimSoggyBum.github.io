@@ -20,15 +20,13 @@ NappyCraft is not involved with or connected to our community or this project in
 We also want to respect other creators and communities, so please do not create any issues or drama on behalf of this project.
 
 All items and brand references in this mod are fan recreations and are not official products. The real-world brands are not involved in, nor responsible for, this project.
-  ```
-  
 </details>
 
 <img width="997" height="783" alt="image" src="https://github.com/user-attachments/assets/290d34bd-f64c-4b78-b895-caf92a479651" />
 
 
 <details>
-  <summary>1.21.1</summary>
+  <summary>**1.21.1**</summary>
   
 **Mod Loader** :  NeoForge<br>
 **Minecraft**  :  1.21.1<br>
