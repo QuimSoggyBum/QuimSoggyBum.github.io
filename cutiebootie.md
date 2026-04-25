@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[Download](#downloads) | [FAQ](#faq)
+[Download](https://quimsoggybum.github.io/cutiebootie.html#downloads) | [FAQ](https://quimsoggybum.github.io/cutiebootie.html#faq)
 
 </center>
 <br>
