@@ -65,6 +65,11 @@ are not associated with or responsible for this project and they did not make th
 <strong>File name</strong>  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar <br> 
 <strong>File size</strong>  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS <br>
 <strong>File hash</strong>  :  552a64d0dfde0115ac67977cf826562d <br>
+<br>
+
+<a href="https://github.com/QuimSoggyBum/cutie-bootie/releases/download/0.0.0.1/add-on.0.0.0.1-1.21.1-cutiebootie.jar" style="text-decoration: none;"><img width="112" height="34" alt="image" src="https://github.com/user-attachments/assets/7ba4f99f-08cb-4a13-ace4-344d2244054f" /></a>
+
+ 
 <hr>  
 </details>
 <details>
