@@ -2,8 +2,9 @@
 
 [home](README.md) | [Mods](mods.md) | [About Me](aboutme.md) | [Contact Me](contactme.md)
 
-
+<center>
 <img width="468" height="104" alt="image" src="https://github.com/user-attachments/assets/32e38fa3-4ae7-4e5c-bd60-9dea212f78af" />
+</center>
 <br>
 <br>
 Welcome to Cutie Bootie, this mod is a Add-on mod, it does not work without [NappyCraft](https://modrinth.com/mod/nappycraft), I have added cute adult diapers what work with [NappyCraft](https://modrinth.com/mod/nappycraft). The [NappyCraft](https://modrinth.com/mod/nappycraft) team will never add these cute diapers so I did.<br>
