@@ -53,7 +53,9 @@ are not associated with or responsible for this project and they did not make th
 
 <img width="1155" height="638" alt="image" src="https://github.com/user-attachments/assets/91f4bce5-ebb7-40b3-800c-7c779317adc2" />
 
+
 ## **Downloads**:
+
 <details>
   <summary><strong>1.21.1</strong>(Click Me):</summary>
   
