@@ -1,6 +1,6 @@
 # QuimSoggyBum.github.io
 
-home | [Mods](mods.md) | About Me | Contact Me
+[home](README.md) | [Mods](mods.md) | About Me | Contact Me
 
 Welcome to my Github page, this is set up to help you access my work when other sites are down
 or that you feel it's safer to use Github over other sites.
