@@ -59,12 +59,12 @@ are not associated with or responsible for this project and they did not make th
 <details>
   <summary><strong>1.21.1</strong>(Click Me):</summary>
   
-**Mod Loader** :  NeoForge<br>
-**Minecraft**  :  1.21.1<br>
-**VirusTotal** :  [Here](https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1) <br>
-**File name**  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar <br> 
-**File size**  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS <br>
-**File hash**  :  552a64d0dfde0115ac67977cf826562d <br>
+<strong>Mod Loader</strong> :  NeoForge<br>
+<strong>Minecraft</strong>  :  1.21.1<br>
+<strong>VirusTotal</strong> :  <a href="https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1" target="_blank">Here</a> <br>
+<strong>File name</strong>  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar <br> 
+<strong>File size</strong>  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS <br>
+<strong>File hash</strong>  :  552a64d0dfde0115ac67977cf826562d <br>
   
 </details>
 <br>
