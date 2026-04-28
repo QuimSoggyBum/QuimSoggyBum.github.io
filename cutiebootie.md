@@ -104,7 +104,7 @@ just click  the version you want, #.##.#(Click Me) and you will see all the info
 
 Key: [0] = Not yet,[W] = Working on it in next version, [D] = Done, [N] = No longer adding
 
-[W] - Diaper Boosters, will take your wetness level down by 1 <br>
+[D] - Diaper Boosters, will take your wetness level down by 1 <br>
 [W] - Diapers x9 and x9 in a x9 (package) <br>
 [0] - Food/Bottles <br>
 [0] - Dummies <br>
