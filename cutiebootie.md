@@ -63,15 +63,15 @@ just click  the version you want, #.##.#(Click Me) and you will see all the info
   <summary><strong>1.21.1</strong>(Click Me):</summary>
 <hr><strong>Mod Loader</strong>:  NeoForge <br>
 <strong>Minecraft</strong>:  1.21.1 <br>
-<strong>Mod Version</strong>:  0.0.0.1 <br>
+<strong>Mod Version</strong>:  0.0.0.2 <br>
 <strong>NappyCraft Version</strong>:  1.1.1.0 And up <a href="https://modrinth.com/mod/nappycraft/versions?g=1.21.1&l=neoforge" target="_blank">Here</a> <br>
-<strong>VirusTotal</strong> :  <a href="https://www.virustotal.com/gui/file/598df0b42164b0aab811bde47b1c0195fae8cb73beb9bbe9b3327d4034d19b21?nocache=1" target="_blank">Here</a> <br>
-<strong>File name</strong>  :  add-on.0.0.0.1-1.21.1-cutiebootie.jar <br> 
-<strong>File size</strong>  :  196.49 KB or 201.2 kB (201,206 bytes) depending on OS <br>
-<strong>File hash</strong>  :  552a64d0dfde0115ac67977cf826562d <br>
+<strong>VirusTotal</strong> :  <a href="https://www.virustotal.com/gui/file/628a78e181b129139ce2f63ea37f2fbda37e0a84a777f4c0f3983d3c260c74e8?nocache=1" target="_blank">Here</a> <br>
+<strong>File name</strong>  :  add-on.0.0.0.2-1.21.1-cutiebootie.jar <br> 
+<strong>File size</strong>  :  221.5 KB or 216.30 KB kB (221,487 bytes) depending on OS <br>
+<strong>File hash</strong>  :  50bf0044e4406ba10255d1c545b4c014 <br>
 <br>
 
-<a href="https://github.com/QuimSoggyBum/cutie-bootie/releases/download/0.0.0.1/add-on.0.0.0.1-1.21.1-cutiebootie.jar" style="text-decoration: none;"><img width="112" height="34" alt="image" src="https://github.com/user-attachments/assets/7ba4f99f-08cb-4a13-ace4-344d2244054f" /></a>
+<a href="https://github.com/QuimSoggyBum/cutie-bootie/releases/download/0.0.0.2/add-on.0.0.0.2-1.21.1-cutiebootie.jar" style="text-decoration: none;"><img width="112" height="34" alt="image" src="https://github.com/user-attachments/assets/7ba4f99f-08cb-4a13-ace4-344d2244054f" /></a>
 
  
 <hr>  
