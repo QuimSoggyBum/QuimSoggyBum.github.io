@@ -109,4 +109,9 @@ Key: [0] = Not yet,[W] = Working on it in next version, [D] = Done, [N] = No lon
 [0] - Food/Bottles <br>
 [0] - Dummies <br>
 [0] - More Diaper Brands <br>
+<br>
+<br>
 If you want me to add more brands or items let me know and I will see what I can do. You can asm me on [Discord](https://discord.gg/kz2EW29ffr) or [bsky(@Quim-MC)](https://bsky.app/profile/quim-mc.bsky.social) <br>
+<br>
+<br>
+Thank you for looking at my mod, Cutie Bootie.
